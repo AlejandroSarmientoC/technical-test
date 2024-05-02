@@ -49,7 +49,7 @@ INSERT INTO names (name) VALUES
     ('Guerrero Gu II'),
     ('Guille Guerrero'),
     ('H. Guerrero Guillermo');
-
+```
 2. Clona este repositorio ([Descargar](https://github.com/AlejandroSarmientoC/technical-test.git))
 
 3. Navega al directorio del proyecto ( cd compareNames )
